@@ -1,0 +1,5 @@
+LOGIN:
+    EMAIL: 'brunocarvalhodesa@gmail.com'
+    SENHA: 'admin'
+    EMAILINVALIDO: 'bruno'
+    EMAILVAZIO: ''

@@ -1,4 +1,4 @@
-# A classe HomePage é a home da pagina
+# A classe AuthenticationPage é a pagina Authentication
 class AuthenticationPage < SitePrism::Page
 
     element :campoEmailAdress, '#email'
